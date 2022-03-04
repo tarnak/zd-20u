@@ -5,6 +5,9 @@ Alternative firmware for USB powered soldering iron ZD-20U.
 
 ![see here](https://github.com/ole00/zd-20u/raw/master/img/inuse.jpg "in use on Medium mode, reduced current & heat")
 
+other usb soldering iron board - alternative for 12-24v
+https://electronoobs.io/shop/index.php/product/portable-soldering-iron-pcb/
+
 Requires modification of the internals of the iron.
 
 WORK IN PROGRESS - use at your own risk!
