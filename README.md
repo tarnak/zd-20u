@@ -13,6 +13,9 @@ https://www.reboot.ms/forum/threads/aggiungere-6-gpio-a-esp-01-per-un-totale-di-
 attiny85 + oled
 https://akuzechie.blogspot.com/2021/06/attiny85-microcontroller-interfaced.html
 
+attiny85 + neopixels
+https://www.electromaker.io/blog/article/programming-ws2812b-leds-with-attiny85-23
+
 ============================
 
 Alternative firmware for USB powered soldering iron ZD-20U.
