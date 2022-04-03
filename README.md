@@ -10,6 +10,9 @@ https://www.instructables.com/Using-the-4-Pins-of-the-ESP8266-01/
 adding 6 pins to esp-01 (italian)
 https://www.reboot.ms/forum/threads/aggiungere-6-gpio-a-esp-01-per-un-totale-di-10.396/
 
+attiny85 + oled
+https://akuzechie.blogspot.com/2021/06/attiny85-microcontroller-interfaced.html
+
 ============================
 
 Alternative firmware for USB powered soldering iron ZD-20U.
