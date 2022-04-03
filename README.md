@@ -1,6 +1,10 @@
 Modded soldering iron ZD-20U
 ============================
 
+https://www.drive2.ru/b/469580526575944060/
+
+============================
+
 Alternative firmware for USB powered soldering iron ZD-20U.
 
 ![see here](https://github.com/ole00/zd-20u/raw/master/img/inuse.jpg "in use on Medium mode, reduced current & heat")
