@@ -7,7 +7,7 @@ https://www.drive2.ru/b/469580526575944060/
 adding more pins to esp-01
 https://www.instructables.com/Using-the-4-Pins-of-the-ESP8266-01/
 
-adding much more pins to esp-01 (italian)
+adding 6 pins to esp-01 (italian)
 https://www.reboot.ms/forum/threads/aggiungere-6-gpio-a-esp-01-per-un-totale-di-10.396/
 
 ============================
