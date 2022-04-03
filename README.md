@@ -1,7 +1,11 @@
 Modded soldering iron ZD-20U
 ============================
 
+some russian guide
 https://www.drive2.ru/b/469580526575944060/
+
+adding more pins to esp-01
+https://www.instructables.com/Using-the-4-Pins-of-the-ESP8266-01/
 
 ============================
 
